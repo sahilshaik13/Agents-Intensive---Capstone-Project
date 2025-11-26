@@ -1,8 +1,3 @@
-Based on the provided notebook, here is a `README.md` file for the project.
-
------
-
-````markdown
 # 🧠 Gemini-Powered Multi-Agent Research Assistant
 
 ## 🚀 Project Overview
@@ -73,7 +68,3 @@ This project is designed to be "Plug and Play" within a single Jupyter Notebook.
       * The first cell will automatically install all necessary dependencies (`google-generativeai`, `faiss-cpu`, `pdfplumber`, `sentence-transformers`, `matplotlib`, `networkx`, `python-dotenv`, `colorama`).
       * Subsequent cells will initialize the Agents, Memory Bank, and Tool Box.
 4.  **Watch the Magic:** The final cell executes the `main_system()` function. By default, it will download and analyze the Bitcoin Whitepaper (`bitcoin.pdf`) if a PDF is not provided. You will see color-coded logs followed by the generation of a Knowledge Graph visualization.
-
-```
-***
-```
