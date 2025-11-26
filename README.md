@@ -1,4 +1,4 @@
-# 🧠 Gemini-Powered Multi-Agent Research Assistant
+# 🧠 InsightGraph: The Gemini-Powered Multi-Agent Researcher
 
 ## 🚀 Project Overview
 
